@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "containers-internals": {
+      "source": "mohitmishra786/low-level-dev-skills",
+      "sourceType": "github",
+      "skillPath": "skills/virtualization/containers-internals/SKILL.md",
+      "computedHash": "3224ba81a9ee4293e512b6ad1973e02220153eddad091fe4693e5f78679c3e71"
+    },
+    "rust-engineer": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/rust-engineer/SKILL.md",
+      "computedHash": "f8093c6253afe24bbac3c3328c3ca07e9ef089758896ba10221ed0f2078cb2a0"
+    }
+  }
+}
